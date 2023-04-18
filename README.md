@@ -1,7 +1,7 @@
 <h1 align="center">Assalamu-walaicum, I'm Md.Nafiul Haque</h1>
 <h3 align="center">Student from AIUB.</h3>
 
-<img align="right" alt="coding" width="300" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
+<img align="right" alt="coding" width="200" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafiulhaqueinan&label=Profile%20views&color=0e75b6&style=flat" alt="nafiulhaqueinan" /> </p>
 
