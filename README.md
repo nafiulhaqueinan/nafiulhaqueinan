@@ -23,4 +23,4 @@
 <a href="https://codeforces.com/profile/Lazy__wizard">
   <img src="https://sta.codeforces.com/s/54863/images/codeforces-logo-with-telegram.png" alt="Codeforces" align="right" height="48" width="48">
 </a>
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
+
