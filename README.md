@@ -20,7 +20,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Md.+Nafiul+Haque;+Welcome+to+My+Profile!;+CSE+Student;+Competitive+Programming+Enthusiast;+Active+on+Codeforces+and+LeetCode;+Currently+Learning+AI;+Always+Learning+New+Things)](https://git.io/typing-svg)
 
 
-<a href="https://codeforces.com/profile/Lazy__wizard">
-  <img src="https://sta.codeforces.com/s/54863/images/codeforces-logo-with-telegram.png" alt="Codeforces" height="48" width="80">
+<a href="https://codeforces.com/profile/Lazy__wizard" style="float: left; margin-right: 20px;">
+  <img src="https://sta.codeforces.com/s/54863/images/codeforces-logo-with-telegram.png" alt="Codeforces" height="50" width="150">
+</a>
+
+<a href="https://leetcode.com/u/lazywizad/" style="float: left;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="50" width="150">
 </a>
 
