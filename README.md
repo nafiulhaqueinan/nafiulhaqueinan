@@ -73,30 +73,3 @@
 
 
 ![](assest/Bottom_down.svg)
-
-<p align="center">
-  <svg viewBox="0 0 200 40" xmlns="http://www.w3.org/2000/svg">
-    <!-- Define styles for PAC-MAN and the text -->
-    <style>
-      .pacman { fill: yellow; }
-      .ghost { fill: blue; }
-      .eye { fill: white; }
-      .pupil { fill: black; }
-      @keyframes move {
-        0% { transform: translateX(0); }
-        100% { transform: translateX(160px); }
-      }
-      .pacman { animation: move 5s linear infinite; }
-    </style>
-    
-    <!-- PAC-MAN shape -->
-    <g class="pacman">
-      <circle cx="20" cy="20" r="20"/>
-      <polygon points="20,20 40,0 40,40"/>
-    </g>
-    
-    <!-- WELCOME text -->
-    <text x="50" y="25" font-family="Verdana" font-size="20" fill="green">WELCOME</text>
-  </svg>
-</p>
-
