@@ -18,3 +18,9 @@
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Md.+Nafiul+Haque;+Welcome+to+My+Profile!;+CSE+Student;+Competitive+Programming+Enthusiast;+Active+on+Codeforces+and+LeetCode;+Currently+Learning+AI;+Always+Learning+New+Things)](https://git.io/typing-svg)
+
+
+<a href="https://codeforces.com/profile/Lazy__wizard">
+  <img src="https://sta.codeforces.com/s/54863/images/codeforces-logo-with-telegram.png" alt="Codeforces" align="right" height="48" width="48">
+</a>
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
