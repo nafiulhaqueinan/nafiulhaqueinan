@@ -21,6 +21,6 @@
 
 
 <a href="https://codeforces.com/profile/Lazy__wizard">
-  <img src="https://sta.codeforces.com/s/54863/images/codeforces-logo-with-telegram.png" alt="Codeforces" align="right" height="48" width="48">
+  <img src="https://sta.codeforces.com/s/54863/images/codeforces-logo-with-telegram.png" alt="Codeforces" height="48" width="80">
 </a>
 
