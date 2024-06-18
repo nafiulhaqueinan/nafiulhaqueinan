@@ -46,7 +46,7 @@
 | ![Nafiul's github stats](https://github-readme-stats.vercel.app/api?username=nafiulhaqueinan&show_icons=true&theme=blue-green&includble_all_commits=true) | ![Nafiul's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulhaqueinan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan"></img>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=blue-green&hide_border=false)
 
 
 
