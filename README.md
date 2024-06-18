@@ -9,7 +9,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=nafiulhaqueinan" alt="visitors"/>   
 </p>
 
-![](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/output/github-contribution-grid-snake.svg)
+
 
 ![](./src/header_.png)
 
@@ -42,6 +42,8 @@
 ### 📈 GitHub Activity Graph:
 [![nafiuls's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nafiulhaqueinan&bg_color=18dc5a&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+![](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/output/github-contribution-grid-snake.svg)
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
