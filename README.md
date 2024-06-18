@@ -25,6 +25,6 @@
 </a>
 
 <a href="https://leetcode.com/u/lazywizad/" style="float: left;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="50" width="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="50" width="50">
 </a>
 
