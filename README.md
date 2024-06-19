@@ -1,4 +1,4 @@
-![](assest/Bottom_up.svg)
+![](assest/greenup.svg)
 
 <p align="center">
     <a href="https://github.com/nafiulhaqueinan/nafiulhaqueinan"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
