@@ -45,12 +45,6 @@
 
 ![](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <a href="https://skyline.github.com/nafiulhaqueinan/2023">
-    <img src="https://skyline.github.com/nafiulhaqueinan/2023/preview" alt="GitHub Skyline"/>
-  </a>
-</p>
-
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
