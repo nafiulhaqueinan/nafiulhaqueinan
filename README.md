@@ -41,16 +41,16 @@
 | **Operating Systems**                           | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black) ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=Arch-Linux&logoColor=white)|
 
 ### 📈 GitHub Activity Graph:
-[![nafiuls's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nafiulhaqueinan&bg_color=18dc5a&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nafiul github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nafiulhaqueinan&bg_color=18dc5a&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ![](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/output/github-contribution-grid-snake.svg)
 
 
-| .                                                                                                                                       | .                                                                                                                         |
+|                                                   **Nafiul Status**                                                                     |                                         **Languages Used**                                                                |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Nafiul's github stats](https://github-readme-stats.vercel.app/api?username=nafiulhaqueinan&show_icons=true&theme=blue-green&includble_all_commits=true) | ![Nafiul's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulhaqueinan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![**Nafiul status**](https://github-readme-stats.vercel.app/api?username=nafiulhaqueinan&show_icons=true&theme=blue-green&includble_all_commits=true) | ![**Nafiul status**](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulhaqueinan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=blue-green&hide_border=false)
