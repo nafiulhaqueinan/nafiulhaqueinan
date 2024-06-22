@@ -22,13 +22,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Md.Nafiul+Haque;+Welcome+to+My+Profile!;+CSE+Student;+Competitive+Programming+Enthusiast;+Active+on+Codeforces+and+LeetCode;+Currently+Learning+AI;+Always+Learning+New+Things)](https://git.io/typing-svg)
 
 
-<a href="https://codeforces.com/profile/Lazy__wizard" style="float: left; margin-right: 20px;">
-  <img src="https://sta.codeforces.com/s/54863/images/codeforces-logo-with-telegram.png" alt="Codeforces" height="50" width="150">
-</a>
-
-<a href="https://leetcode.com/u/lazywizad/" style="float: left;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="50" width="50">
-</a>
+<h3 align="left">Competitive programming Platforms:</h3>
+<p align="left">
+<a href="https://codeforces.com/profile/lazy__wizard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tishad07" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nafiul9575?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tishadalam86" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/lazywizad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tishad07" height="30" width="40" /></a>
+</p>
 
 
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
