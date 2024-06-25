@@ -45,8 +45,8 @@
 | **Operating Systems**                           | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black) ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=Arch-Linux&logoColor=white)|
 
 ### 📈 GitHub Activity Graph:
-[![Nafiul Github Activity Graph (Light Theme)](https://github-readme-activity-graph.vercel.app/graph?username=nafiulhaqueinan&bg_color=18dc5a&color=000000&line=000000&point=000000&area=true&hide_border=true)](#gh-light-mode-only)
-[![Nafiul Github Activity Graph (Dark Theme)](https://github-readme-activity-graph.vercel.app/graph?username=nafiulhaqueinan&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](#gh-dark-mode-only)
+[![Nafiul Github Activity Graph (Light Theme)](https://github-readme-activity-graph.vercel.app/graph?username=nafiulhaqueinan&bg_color=18dc5a&color=000000&line=000000&point=000000&area=true&hide_border=true)](#gh-dark-mode-only)
+[![Nafiul Github Activity Graph (Dark Theme)](https://github-readme-activity-graph.vercel.app/graph?username=nafiulhaqueinan&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](#gh-light-mode-only)
 
 
 ![](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/output/github-contribution-grid-snake.svg)
