@@ -1,6 +1,6 @@
 <!--![Dark](assest/greenup2.svg) -->
-![Light](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/Bottom_up.svg#gh-light-mode-only)
-![Dark](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/greenup2.svg#gh-dark-mode-only)
+![Light](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/light_up.svg#gh-light-mode-only)
+![Dark](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/light_down.svg#gh-dark-mode-only)
 
 <p align="center">
     <a href="https://github.com/nafiulhaqueinan/nafiulhaqueinan"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
