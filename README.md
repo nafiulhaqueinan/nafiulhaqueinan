@@ -57,10 +57,10 @@
 
 |                                                   **Nafiul Status**                                                                     |                                         **Languages Used**                                                                |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![**Nafiul status**](https://github-readme-stats.vercel.app/api?username=nafiulhaqueinan&show_icons=true&theme=blue-green&includble_all_commits=true) | ![**Nafiul status**](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulhaqueinan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![**Nafiul status**](https://github-readme-stats.vercel.app/api?username=nafiulhaqueinan&show_icons=true&theme=gruvbox&includble_all_commits=true) | ![**Nafiul status**](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulhaqueinan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=blue-green&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=gruvbox&hide_border=false)
 
 
 
