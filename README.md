@@ -70,7 +70,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nafiulhaqueinan&theme=onedark&column=7&no-bg=true&no-frame=true" alt="nafiul's GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=nafiulhaqueinan&theme=gruvbox&column=7&no-bg=true&no-frame=true" alt="nafiul's GitHub Trophies"/>
   </a>
 </p>
 
