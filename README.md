@@ -69,5 +69,5 @@
   </a>
 </p>
 
-
-![](assest/greendown.svg)
+![Light](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/light_down.svg#gh-light-mode-only)
+![Dark](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/greendown.svg#gh-dark-mode-only)
