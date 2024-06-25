@@ -54,10 +54,10 @@
 
 |                                                   **Nafiul Status**                                                                     |                                         **Languages Used**                                                                |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![**Nafiul status**](https://github-readme-stats.vercel.app/api?username=nafiulhaqueinan&show_icons=true&theme=gruvbox&includble_all_commits=true) | ![**Nafiul status**](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulhaqueinan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![**Nafiul status**](https://github-readme-stats.vercel.app/api?username=nafiulhaqueinan&show_icons=true&theme=merko&includble_all_commits=true) | ![**Nafiul status**](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulhaqueinan&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=gruvbox&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=merko&hide_border=false)
 
 
 
@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nafiulhaqueinan&theme=gruvbox&column=7&no-bg=true&no-frame=true" alt="nafiul's GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=nafiulhaqueinan&theme=algolia&column=7&no-bg=true&no-frame=true" alt="nafiul's GitHub Trophies"/>
   </a>
 </p>
 
