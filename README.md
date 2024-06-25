@@ -49,6 +49,10 @@
 [![Nafiul Github Activity Graph (Dark Theme)](https://github-readme-activity-graph.vercel.app/graph?username=nafiulhaqueinan&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](#gh-light-mode-only)
 
 
+![Light](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/profile-3d-contrib/profile-gitblock.svg#gh-light-mode-only)
+![Dark](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
+
+
 ![](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/output/github-contribution-grid-snake.svg)
 
 
