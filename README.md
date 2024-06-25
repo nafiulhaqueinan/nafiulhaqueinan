@@ -22,7 +22,7 @@
 
 <!--   my-ticker -->  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23bbec5b&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Md.Nafiul+Haque;+Welcome+to+My+Profile!;+CSE+Student;+Competitive+Programming+Enthusiast;+Active+on+Codeforces+and+LeetCode;+Currently+Learning+AI;+Always+Learning+New+Things&background=00000000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2559bdf6&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Md.Nafiul+Haque;+Welcome+to+My+Profile!;+CSE+Student;+Competitive+Programming+Enthusiast;+Active+on+Codeforces+and+LeetCode;+Currently+Learning+AI;+Always+Learning+New+Things&background=00000000)](https://git.io/typing-svg)
 
 
 
