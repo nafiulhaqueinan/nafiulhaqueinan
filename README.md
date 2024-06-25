@@ -54,10 +54,10 @@
 
 |                                                   **Nafiul Status**                                                                     |                                         **Languages Used**                                                                |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![**Nafiul status**](https://github-readme-stats.vercel.app/api?username=nafiulhaqueinan&show_icons=true&theme=merko&includble_all_commits=true) | ![**Nafiul status**](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulhaqueinan&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+|[![**Nafiul status**](https://github-readme-stats.vercel.app/api?username=nafiulhaqueinan&show_icons=true&theme=merko&includble_all_commits=true)](#gh-dark-mode-only) | [![**Nafiul status**](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulhaqueinan&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#gh-dark-mode-only) |
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=merko&hide_border=false)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=merko&hide_border=false)](#gh-dark-mode-only)
 
 
 
