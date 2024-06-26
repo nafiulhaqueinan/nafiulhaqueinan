@@ -1,5 +1,5 @@
-<!--![Dark](assest/greenup2.svg) -->
 ![Light](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/light_up.svg#gh-light-mode-only)
+
 ![Dark](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/greenup2.svg#gh-dark-mode-only)
 
 <p align="center">
@@ -11,21 +11,15 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=nafiulhaqueinan" alt="visitors"/>   
 </p>
 
-
-
 ![](./src/header_.png)
 
 <a href="https://isocpp.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" align="right" height="48" width="48">
 </a>
 
-
 <!--   my-ticker -->  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2559bdf6&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Md.Nafiul+Haque;+Welcome+to+My+Profile!;+CSE+Student;+Competitive+Programming+Enthusiast;+Active+on+Codeforces+and+LeetCode;+Currently+Learning+AI;+Always+Learning+New+Things&background=00000000)](https://git.io/typing-svg)
-
-
-
 
 <h3 align="left">Competitive programming Platforms:</h3>
 <p align="left">
@@ -33,7 +27,6 @@
 <a href="https://www.hackerrank.com/nafiul9575?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nafiul" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/lazywizad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nafiul" height="30" width="40" /></a>
 </p>
-
 
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -60,10 +53,7 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 |[![**Nafiul status**](https://github-readme-stats.vercel.app/api?username=nafiulhaqueinan&show_icons=true&theme=merko&includble_all_commits=true)](#gh-dark-mode-only) [![**Nafiul status**](https://github-readme-stats.vercel.app/api?username=nafiulhaqueinan&show_icons=true&theme=buefy&includble_all_commits=true)](#gh-light-mode-only) | [![**Nafiul status**](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulhaqueinan&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#gh-dark-mode-only) [![**Nafiul status**](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulhaqueinan&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#gh-light-mode-only) |
 
-
 [![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=merko&hide_border=false)](#gh-dark-mode-only) [![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=buefy&hide_border=false)](#gh-light-mode-only)
-
-
 
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
@@ -76,4 +66,5 @@
 </p>
 
 ![Light](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/light_down.svg#gh-light-mode-only)
+
 ![Dark](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/greendown.svg#gh-dark-mode-only)
