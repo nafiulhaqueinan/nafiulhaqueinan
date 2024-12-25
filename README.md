@@ -1,7 +1,5 @@
 ![Light](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/light_up.svg#gh-light-mode-only)
 
-
-
 ![Dark](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/greenup2.svg#gh-dark-mode-only)
 
 <p align="center">
