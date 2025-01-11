@@ -58,7 +58,7 @@
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=merko&hide_border=false)](#gh-dark-mode-only) [![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=buefy&hide_border=false)](#gh-light-mode-only)
 
-<div align="center">
+<div align="center" color="green">
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
 
