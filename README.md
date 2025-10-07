@@ -56,9 +56,9 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 |[![**Nafiul status**](https://github-readme-stats.vercel.app/api?username=nafiulhaqueinan&show_icons=true&theme=merko&includble_all_commits=true)](#gh-dark-mode-only) [![**Nafiul status**](https://github-readme-stats.vercel.app/api?username=nafiulhaqueinan&show_icons=true&theme=buefy&includble_all_commits=true)](#gh-light-mode-only) | [![**Nafiul status**](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulhaqueinan&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#gh-dark-mode-only) [![**Nafiul status**](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiulhaqueinan&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](#gh-light-mode-only) |
 
-<div align="center">
+
 [![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=merko&hide_border=false)](#gh-dark-mode-only) [![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=buefy&hide_border=false)](#gh-light-mode-only)
-</div>
+
 
 ![Light](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/light_down.svg#gh-light-mode-only)
 
