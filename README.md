@@ -30,6 +30,27 @@
 <a href="https://www.hackerrank.com/nafiul9575?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nafiul" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/lazywizad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nafiul" height="30" width="40" /></a>
 </p>
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://codeforces.com/profile/lazy__wizard" target="blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/></a>
+  <a href="https://leetcode.com/u/lazywizad/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
+  <a href="https://www.hackerrank.com/nafiul9575?hr_r=1" target="blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="hackerrank"/></a>
+  <a href="mailto:nafiulcp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+</p>
+
+### 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,bash,mysql,git,github,linux,vscode,pycharm,idea,tensorflow,sklearn,opencv&perline=8" alt="tech stack" />
+</p>
+
+<h3 align="left">Competitive programming Platforms:</h3>
+<p align="left">
+<a href="https://codeforces.com/profile/lazy__wizard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nafiul" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nafiul9575?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nafiul" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/lazywizad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nafiul" height="30" width="40" /></a>
+</p>
 
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -45,22 +66,12 @@
 [![Nafiul Github Activity Graph (Dark Theme)](https://github-readme-activity-graph.vercel.app/graph?username=nafiulhaqueinan&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](#gh-light-mode-only)
 
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/profile-3d-contrib/profile-gitblock.svg#gh-light-mode-only"
-    width="800"
-    alt="Contribution Graph Light"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only"
-    width="800"
-    alt="Contribution Graph Dark"
-  />
-</p>
+![Light](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/profile-3d-contrib/profile-gitblock.svg#gh-light-mode-only)
+![Dark](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
 
 
 ![](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/output/github-contribution-grid-snake.svg)
+
 
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=merko&hide_border=false)](#gh-dark-mode-only) [![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=buefy&hide_border=false)](#gh-light-mode-only)
