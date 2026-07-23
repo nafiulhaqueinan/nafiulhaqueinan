@@ -42,6 +42,21 @@
 |---|---|---|---|
 | Competitive programming & DSA | AI / Machine Learning | Off-by-one errors at 2 AM | C++, Python, algorithms |
 
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://codeforces.com/profile/lazy__wizard" target="blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/></a>
+  <a href="https://leetcode.com/u/lazywizad/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
+  <a href="https://www.hackerrank.com/nafiul9575?hr_r=1" target="blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="hackerrank"/></a>
+  <a href="mailto:nafiulcp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+</p>
+
+### 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,bash,mysql,git,github,linux,vscode,pycharm,idea,tensorflow,sklearn,opencv&perline=8" alt="tech stack" />
+</p>
+
 <h3 align="left">Competitive programming Platforms:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/lazy__wizard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nafiul" height="30" width="40" /></a>
@@ -80,8 +95,39 @@
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=merko&hide_border=false)](#gh-dark-mode-only) [![](https://github-readme-streak-stats.herokuapp.com/?user=nafiulhaqueinan&theme=buefy&hide_border=false)](#gh-light-mode-only)
 
+### 🧾 Profile Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafiulhaqueinan&theme=github_dark" alt="profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafiulhaqueinan&theme=github_dark" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nafiulhaqueinan&theme=github_dark" alt="most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nafiulhaqueinan&theme=github_dark" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nafiulhaqueinan&theme=github_dark&utcOffset=6" alt="productive time" />
+</p>
+
 ### 💡 Quote of the Moment
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<p align="center">
+  <img src="https://randommeme-five.vercel.app/" width="480" alt="random dev meme" />
+</p>
+
+### 🤝 Let's Build Something
+
+- 🔭 Open to competitive programming teams & pair-solving sessions
+- 💬 Ping me on any platform above — always down to talk algorithms
+- ⭐ Star a repo if my code ever saved your 2 AM debugging session
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2559bdf6&center=true&vCenter=true&width=500&lines=Keep+coding.;Keep+solving.;Keep+shipping.+🚀" alt="outro typing" />
+</p>
 
 ---
 
