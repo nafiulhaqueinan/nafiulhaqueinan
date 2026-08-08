@@ -1,0 +1,27 @@
+name: Metrics
+on:
+  # run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+  # run on every push on the main branch
+  push:
+    branches:
+    - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.GH_PAT }}
+          base: header, repositories
+          plugin_lines: yes
