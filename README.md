@@ -1,79 +1,158 @@
-![Light](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/light_up.svg#gh-light-mode-only)
+<!-- ═══════════════════════════ BANNER ═══════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/greenup2.svg">
+  <img src="https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/light_up.svg" alt="" width="100%">
+</picture>
 
+<div align="center">
 
-![Dark](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/greenup2.svg#gh-dark-mode-only)
+<img src="./src/header_.png" alt="Md. Nafiul Haque" width="100%">
 
-<p align="center">
-    <a href="https://github.com/nafiulhaqueinan/nafiulhaqueinan"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/nafiulhaqueinan/nafiulhaqueinan/graphs/contributors"><img src="https://img.shields.io/github/contributors/nafiulhaqueinan/nafiulhaqueinan?color=blue"></a>
-    <a href="https://github.com/nafiulhaqueinan/nafiulhaqueinan/stargazers"><img src="https://img.shields.io/github/stars/nafiulhaqueinan/nafiulhaqueinan.svg?logo=github"></a>
-    <a href="https://github.com/nafiulhaqueinan/nafiulhaqueinan/network/members"><img src="https://img.shields.io/github/forks/nafiulhaqueinan/nafiulhaqueinan.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=nafiulhaqueinan" alt="visitors"/>   
-</p>
+<!-- ═══════════════════════════ TICKER ═══════════════════════════ -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=650&height=60&lines=Hi+there+%F0%9F%91%8B+I'm+Md.+Nafiul+Haque;CSE+Student+%7C+Competitive+Programmer;Codeforces+%C2%B7+LeetCode+%C2%B7+HackerRank;Currently+diving+into+AI+%26+Machine+Learning)](https://git.io/typing-svg)
 
-![](./src/header_.png)
+<a href="https://github.com/nafiulhaqueinan/nafiulhaqueinan/stargazers"><img src="https://img.shields.io/github/stars/nafiulhaqueinan/nafiulhaqueinan?style=for-the-badge&color=2EA043&labelColor=0D1117&logo=github" alt="stars"></a>
+<a href="https://github.com/nafiulhaqueinan/nafiulhaqueinan/network/members"><img src="https://img.shields.io/github/forks/nafiulhaqueinan/nafiulhaqueinan?style=for-the-badge&color=2EA043&labelColor=0D1117&logo=github" alt="forks"></a>
+<img src="https://komarev.com/ghpvc/?username=nafiulhaqueinan&style=for-the-badge&color=2EA043&labelColor=0D1117&label=PROFILE+VIEWS" alt="views">
 
+</div>
 
-<a href="https://isocpp.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" align="right" height="48" width="48">
-</a>
+<br>
 
-<!--   my-ticker -->  
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?color=%2559bdf6&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Md.Nafiul+Haque;+Welcome+to+My+Profile!;+CSE+Student;+Competitive+Programming+Enthusiast;+Active+on+Codeforces+and+LeetCode;+Currently+Learning+AI;+Always+Learning+New+Things&background=00000000)](https://git.io/typing-svg)
+## 🧭 About Me
 
-<h3 align="left">Competitive programming Platforms:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/lazy__wizard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nafiul" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nafiul9575?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nafiul" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/lazywizad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nafiul" height="30" width="40" /></a>
-</p>
+```yaml
+name:      Md. Nafiul Haque
+role:      Computer Science & Engineering Student
+focus:     Competitive Programming, Algorithms, Machine Learning
+languages: [C, C++, Python, Java, C#]
+learning:  AI / Deep Learning · System Design
+motto:     "Solve it once. Then solve it better."
+```
 
-### 🌐 Connect With Me
+- 🧮 I spend most of my time on **algorithmic problem solving** — Codeforces, LeetCode, and HackerRank.
+- 🤖 Currently working through **machine learning** fundamentals with TensorFlow, scikit-learn, and OpenCV.
+- 🛠️ Comfortable in **C/C++** for performance work and **Python** for everything else.
+- 📫 Reach me at **nafiul9575@gmail.com** — always happy to talk algorithms.
 
-<p align="left">
-  <a href="https://codeforces.com/profile/lazy__wizard" target="blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces"/></a>
-  <a href="https://leetcode.com/u/lazywizad/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/></a>
-  <a href="https://www.hackerrank.com/nafiul9575?hr_r=1" target="blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="hackerrank"/></a>
-  <a href="mailto:nafiulcp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-</p>
+<br>
 
-### 🛠️ Tech Arsenal
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,bash,mysql,git,github,linux,vscode,pycharm,idea,tensorflow,sklearn,opencv&perline=8" alt="tech stack" />
-</p>
+## 🛠️ Tech Arsenal
 
-| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)&nbsp;![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=Csharp&logoColor=white)&nbsp;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/nafiulhaqueinan/nafiulhaqueinan) ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp;[![IntelliJ Badge](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=pink)](https://www.jetbrains.com/idea/) [![CLion Badge](https://img.shields.io/badge/-CLion-000000?style=flat&logo=CLion&logoColor=white)](https://www.jetbrains.com/clion/) ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp; [![](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) [![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Domain Knownledge**                           | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/nafiulhaqueinan) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Anafiulhaqueinan&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3Anafiulhaqueinan&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Anafiulhaqueinan&type=Repositories)|
-| **Databases**                                   | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT)&nbsp; ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)&nbsp;![Google Colab Badge](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=Google%20Colab&logoColor=white)&nbsp;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Operating Systems**                           | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=Windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black) ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=Arch-Linux&logoColor=white)|
+<div align="center">
 
-### 📊 GitHub Metrics:
-![Metrics](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/metrics.classic.svg)
+**Languages**
 
-### 📈 GitHub Activity Graph:
-[![Nafiul Github Activity Graph (Light Theme)](https://github-readme-activity-graph.vercel.app/graph?username=nafiulhaqueinan&bg_color=18dc5a&color=000000&line=000000&point=000000&area=true&hide_border=true)](#gh-dark-mode-only)
-[![Nafiul Github Activity Graph (Dark Theme)](https://github-readme-activity-graph.vercel.app/graph?username=nafiulhaqueinan&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](#gh-light-mode-only)
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,bash&theme=dark" alt="languages">
 
+**ML / Data**
 
-![Light](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/profile-3d-contrib/profile-gitblock.svg#gh-light-mode-only)
-![Dark](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only)
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&theme=dark" alt="ml stack">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter">
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="colab">
 
+**Tools & Environment**
 
-![](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/output/github-contribution-grid-snake.svg)
+<img src="https://skillicons.dev/icons?i=git,github,mysql,linux,vscode,pycharm,idea&theme=dark" alt="tools">
 
+</div>
 
+<br>
 
-[![](https://streak-stats.demolab.com/?user=nafiulhaqueinan&theme=merko&hide_border=false)](#gh-dark-mode-only) [![](https://streak-stats.demolab.com/?user=nafiulhaqueinan&theme=buefy&hide_border=false)](#gh-light-mode-only)
+<!-- ═══════════════════════ COMPETITIVE PROGRAMMING ═══════════════════════ -->
 
+## ⚔️ Competitive Programming
 
-![Light](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/light_down.svg#gh-light-mode-only)
+<div align="center">
 
-![Dark](https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/greendown.svg#gh-dark-mode-only)
+<a href="https://codeforces.com/profile/lazy__wizard"><img src="https://img.shields.io/badge/Codeforces-lazy__wizard-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" alt="codeforces"></a>
+<a href="https://leetcode.com/u/lazywizad/"><img src="https://img.shields.io/badge/LeetCode-lazywizad-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="leetcode"></a>
+<a href="https://www.hackerrank.com/nafiul9575?hr_r=1"><img src="https://img.shields.io/badge/HackerRank-nafiul9575-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117" alt="hackerrank"></a>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/lazywizad?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" width="90%">
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════ METRICS ═══════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/metrics.classic.svg" alt="GitHub metrics" width="90%">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/metrics.habits.svg" alt="Coding habits" width="90%">
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=nafiulhaqueinan&theme=merko&hide_border=true&background=0D1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043">
+  <img src="https://streak-stats.demolab.com/?user=nafiulhaqueinan&theme=buefy&hide_border=true" alt="streak stats" width="70%">
+</picture>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════ CONTRIBUTION ART ═══════════════════════ -->
+
+## 🎨 Contribution Art
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=nafiulhaqueinan&theme=react-dark&bg_color=0D1117&color=2EA043&line=2EA043&point=FFFFFF&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nafiulhaqueinan&bg_color=FFFFFF&color=1F6F3D&line=2EA043&point=0D1117&area=true&hide_border=true" alt="activity graph" width="100%">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <img src="https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/profile-3d-contrib/profile-gitblock.svg" alt="3d contribution graph" width="100%">
+</picture>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="mailto:nafiul9575@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="gmail"></a>
+<a href="https://github.com/nafiulhaqueinan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="github"></a>
+<a href="https://codeforces.com/profile/lazy__wizard"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" alt="codeforces"></a>
+<a href="https://leetcode.com/u/lazywizad/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="leetcode"></a>
+
+<br><br>
+
+<i>⭐ From <a href="https://github.com/nafiulhaqueinan">nafiulhaqueinan</a></i>
+
+</div>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/greendown.svg">
+  <img src="https://raw.githubusercontent.com/nafiulhaqueinan/nafiulhaqueinan/main/assest/light_down.svg" alt="" width="100%">
+</picture>
