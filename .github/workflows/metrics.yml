@@ -15,13 +15,40 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # main card: header, repositories, language breakdown and an isometric calendar
+      - name: Generate metrics.classic.svg
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.GH_PAT }}
+          user: nafiulhaqueinan
+          template: classic
           base: header, repositories
+          config_timezone: Asia/Dhaka
           plugin_lines: yes
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # secondary card: coding habits and GitHub achievements
+      - name: Generate metrics.habits.svg
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.habits.svg
+          token: ${{ secrets.GH_PAT }}
+          user: nafiulhaqueinan
+          template: classic
+          base: ""
+          config_timezone: Asia/Dhaka
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_achievements: yes
+          plugin_achievements_only: developer, maintainer, explorer, stargazer
